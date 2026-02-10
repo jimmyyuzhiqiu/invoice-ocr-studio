@@ -1,0 +1,24 @@
+# --- Python / venv ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Outputs / runtime artifacts ---
+debug_roi/
+roi_preview_*/
+*.xlsx
+*.log
+
+# --- optional: local ROI config if you don't want to commit it ---
+# roi_config.json

@@ -1,0 +1,8 @@
+PyQt5
+PyMuPDF
+opencv-python
+numpy
+pandas
+openpyxl
+rapidocr
+onnxruntime
