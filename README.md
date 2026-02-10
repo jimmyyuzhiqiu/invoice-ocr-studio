@@ -8,15 +8,12 @@
 
 ## Screenshots
 
+
 ### Main UI
-<p align="center">
-  docs/images/ui.png
-</p>
+!Invoice OCR Studio Main UI
 
 ### ROI Overlay Preview (UI 内翻页预览)
-<p align="center">
-  docs/images/ui-overlay.png
-</p>
+!ROI Overlay Preview UI
 
 ---
 
