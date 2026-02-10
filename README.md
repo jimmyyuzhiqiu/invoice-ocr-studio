@@ -10,10 +10,10 @@
 
 
 ### Main UI
-!Invoice OCR Studio Main UI
+!(docs/images/ui.png)
 
 ### ROI Overlay Preview (UI 内翻页预览)
-!ROI Overlay Preview UI
+!(docs/images/ui-overlay.png)
 
 ---
 
