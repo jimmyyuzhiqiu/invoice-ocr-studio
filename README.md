@@ -10,10 +10,10 @@
 
 
 ### Main UI
-!(docs/images/ui.png)
+![docs/images/ui.png]
 
 ### ROI Overlay Preview (UI 内翻页预览)
-!(docs/images/ui-overlay.png)
+!docs/images/ui-overlay.png
 
 ---
 
